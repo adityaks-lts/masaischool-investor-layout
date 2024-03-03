@@ -4,19 +4,48 @@
     /* margin: 20px ; */
 }
 .investor-img{
+    display: block;
+    margin: auto;
     width: 296px;
     height: 304px;
 }
 .company-logo1{
+    display: block;
+    margin: auto;
     width: 140px;
     height: 48px;
 }
 
 .company-logo2{
+    display: block;
+    margin: auto;
     width: 110.4px;
     height: 48px;
 }
+
 .company-logo3{
+    display: block;
+    margin: auto;
     width: 112px;
     height: 48px;
+}
+
+.investor-name{
+    text-align: center;
+    padding: 0.5rem 0.5rem 0rem 0.5rem;
+    margin: 0%;
+    font-family: Open Sans,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";
+    font-weight: 700;
+    height: 32px;
+    box-sizing: border-box;
+}
+
+.investor-post{
+    text-align: center;
+    padding: 0rem 0.5rem 0rem 0.5rem;
+    margin: 0%;
+    color: #544D4F;
+    font-family:  Open Sans,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";
+    height: 24px;
+    box-sizing: border-box;
 }
