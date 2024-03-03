@@ -1,0 +1,22 @@
+
+.investor-card{
+    display: inline-block;
+    /* margin: 20px ; */
+}
+.investor-img{
+    width: 296px;
+    height: 304px;
+}
+.company-logo1{
+    width: 140px;
+    height: 48px;
+}
+
+.company-logo2{
+    width: 110.4px;
+    height: 48px;
+}
+.company-logo3{
+    width: 112px;
+    height: 48px;
+}
