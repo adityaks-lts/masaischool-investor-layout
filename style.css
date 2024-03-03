@@ -1,20 +1,18 @@
 #investor-row{
     margin: auto;
-    padding: 5% 6% 5% 6%;
+    padding: 5% 5% 5% 7%;
 }
 .investor-card{
     display: inline-block;
     text-align: center;
-    padding-right: 30px;
-
-}
-.investor-img{
+    margin-right: 25px;
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
     border: solid #e5e7eb;
     border-top-width: 8px;
-    border-left-width: 0cap;
-    border-right-width: 0cap;
-    border-bottom-width: 0cap;
-    border-radius: 10px;
+}
+.investor-img{
+   
     margin: auto;
     max-width: 100%;
     height: auto;
